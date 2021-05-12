@@ -1,0 +1,18 @@
+{
+  "name": "is303f20final",
+  "version": "1.0.0",
+  "description": "Final",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cairo Murphy",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "knex": "^0.21.13",
+    "path": "^0.12.7",
+    "sqlite3": "^5.0.0"
+  }
+}
